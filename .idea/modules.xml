@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chuyen_doi_thap_phan_sang_nhi_phan/Chuyen_doi_thap_phan_sang_nhi_phan.iml" filepath="$PROJECT_DIR$/Chuyen_doi_thap_phan_sang_nhi_phan/Chuyen_doi_thap_phan_sang_nhi_phan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Stack_Queue.iml" filepath="$PROJECT_DIR$/DSA_Stack_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dao_nguoc_Stack/Dao_nguoc_Stack.iml" filepath="$PROJECT_DIR$/Dao_nguoc_Stack/Dao_nguoc_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dem_tu_TreeMap/Dem_tu_TreeMap.iml" filepath="$PROJECT_DIR$/Dem_tu_TreeMap/Dem_tu_TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue_dung_LinkedList/Queue_dung_LinkedList.iml" filepath="$PROJECT_DIR$/Queue_dung_LinkedList/Queue_dung_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue_dung_Mang/Queue_dung_Mang.iml" filepath="$PROJECT_DIR$/Queue_dung_Mang/Queue_dung_Mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue_lien_ket_vong/Queue_lien_ket_vong.iml" filepath="$PROJECT_DIR$/Queue_lien_ket_vong/Queue_lien_ket_vong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_dung_LinkedList/Stack_dung_LinkedList.iml" filepath="$PROJECT_DIR$/Stack_dung_LinkedList/Stack_dung_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_dung_Mang/Stack_dung_Mang.iml" filepath="$PROJECT_DIR$/Stack_dung_Mang/Stack_dung_Mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeMap/TreeMap.iml" filepath="$PROJECT_DIR$/TreeMap/TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dem_tu_TreeMap/demo.iml" filepath="$PROJECT_DIR$/Dem_tu_TreeMap/demo.iml" />
+    </modules>
+  </component>
+</project>
